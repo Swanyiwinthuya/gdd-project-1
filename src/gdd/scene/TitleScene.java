@@ -27,6 +27,7 @@ public class TitleScene extends JPanel {
     private Game game;
 
     private final String[] teamMembers = {
+        "Swan Yi Win Thu Ya",
         "Arkar Phyo",
         "Zwe Khant Lin"
     };
